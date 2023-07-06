@@ -1,0 +1,6 @@
+	component calc_qsys is
+		port (
+			clk_clk : in std_logic := 'X'  -- clk
+		);
+	end component calc_qsys;
+
